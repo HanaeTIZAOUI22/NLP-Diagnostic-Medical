@@ -35,4 +35,10 @@ Le projet est décomposé en 7 notebooks numérotés pour respecter l'ordre logi
    ```bash
    git clone [https://github.com/HanaeTIZAOUI22/NLP-Diagnostic-Medical.git](https://github.com/HanaeTIZAOUI22/NLP-Diagnostic-Medical.git)
    cd NLP-Diagnostic-Medical
+
+   ### 💡 Note sur le modèle
+Le fichier du modèle étant volumineux, il est géré via **Git LFS**. 
+Pour le récupérer après avoir cloné le dépôt, utilisez la commande :
+`git lfs pull`
    
+
