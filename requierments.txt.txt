@@ -1,0 +1,21 @@
+# Manipulation de données
+pandas
+numpy
+scikit-learn
+
+# NLP et Deep Learning
+transformers
+torch
+datasets
+accelerate
+
+# Visualisation
+matplotlib
+seaborn
+wordcloud
+nltk
+
+# Interface Utilisateur et RAG
+gradio
+joblib
+sentence-transformers
